@@ -1,0 +1,6 @@
+{
+  "name": "Technology Token",
+  "symbol": "TECH",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://github-production-user-asset-6210df.s3.amazonaws.com/208050165/435649753-9965f361-1a39-4b35-bdd5-c7a0b0621de1.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250421T111628Z&X-Amz-Expires=300&X-Amz-Signature=90c273d4961364b9186a631a5dfb901f6fdb2fb08f9b94119347324cad149964&X-Amz-SignedHeaders=host"
+}
